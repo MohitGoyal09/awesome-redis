@@ -29,6 +29,7 @@
 - [KeyDB](https://github.com/Snapchat/KeyDB) – Multithreaded, drop-in Redis alternative.
 - [Valkey](https://github.com/valkey-io/valkey) – Open-source community fork of Redis.
 - [DragonflyDB](https://dragonflydb.io) - A high-performance, Redis-compatible in-memory data store designed as a modern replacement for Redis and Memcached.
+- [ReRu](https://github.com/mansiverma897993/ReRu) — Experimental Redis-compatible cache and data-structure server in Rust, with RESP2, TTLs, persistence, replication and streams.
 
 ## Clients
 
